@@ -1,5 +1,8 @@
 # CodingGame
 EcjtuNet Coding Game
 
-## Winner List
-- 2015
+## V1
+
+ - 时间：2015/5/22 - 23
+ - 奖金：1000
+ - Winner：undefined
