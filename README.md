@@ -5,7 +5,7 @@ EcjtuNet Coding Game
 
  - 时间：2015/5/22 - 23
  - 奖金：1000
- - Winner：Pei, Android Team
+ - Winner：Pei, Zihao Wang, Android Team
  
 ## V2
 
